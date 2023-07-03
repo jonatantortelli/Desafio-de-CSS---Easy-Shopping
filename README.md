@@ -8,6 +8,6 @@
 - CSS
 <br>
 <br>
-<img src="https://github.com/jonatantortelli/easy-shopping/blob/main/IMG/pc.png?raw=true" width=900px/>
+<img align="center" src="https://github.com/jonatantortelli/easy-shopping/blob/main/IMG/pc.png?raw=true" width=900px/>
 
-<img src="https://raw.githubusercontent.com/jonatantortelli/easy-shopping/main/IMG/cell.png" width=900px/>
+<img align="center" src="https://raw.githubusercontent.com/jonatantortelli/easy-shopping/main/IMG/cell.png" width=900px/>
