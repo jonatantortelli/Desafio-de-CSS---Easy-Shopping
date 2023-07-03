@@ -87,7 +87,7 @@ img {
     top: 10%;
     right: 130px;
     width: 456px;
-    height: 561.95px;
+    height: 500px;
 }
 
 header {
@@ -113,6 +113,8 @@ header {
     img {
         position: static;
         max-width: 90%;
+        width: 356px;
+        height: 400px;
     }
 
     header {
